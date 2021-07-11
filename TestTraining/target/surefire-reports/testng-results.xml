@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.automation.dialog.TestCases.TestCasePage" duration-ms="45666" started-at="2021-07-11T16:25:57 IST" finished-at="2021-07-11T16:26:43 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45666" started-at="2021-07-11T16:25:57 IST" finished-at="2021-07-11T16:26:43 IST">
+      <class name="com.automation.dialog.TestCases.TestCasePage">
+        <test-method status="PASS" signature="verifyPostPaid()[pri:0, instance:com.automation.dialog.TestCases.TestCasePage@2b552920]" name="verifyPostPaid" is-config="true" duration-ms="13242" started-at="2021-07-11T16:25:57 IST" finished-at="2021-07-11T16:26:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostPaid -->
+        <test-method status="PASS" signature="verifyWelcomepage()[pri:1, instance:com.automation.dialog.TestCases.TestCasePage@2b552920]" name="verifyWelcomepage" duration-ms="31005" started-at="2021-07-11T16:26:11 IST" finished-at="2021-07-11T16:26:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWelcomepage -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.automation.dialog.TestCases.TestCasePage@2b552920]" name="closeDriver" is-config="true" duration-ms="1358" started-at="2021-07-11T16:26:42 IST" finished-at="2021-07-11T16:26:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automation.dialog.TestCases.TestCasePage -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.automation.dialog.TestCases.TestCasePage -->
+</testng-results>
