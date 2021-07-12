@@ -1,2 +1,4 @@
 com\automation\dialogPages\Welcomepage.class
 com\automation\dialog\TestCases\TestCasePage.class
+com\automation\dialogPages\PostPaidPage.class
+com\automation\dialogPages\Package2700Page.class
